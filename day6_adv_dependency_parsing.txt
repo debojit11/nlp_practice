@@ -1,0 +1,119 @@
+Core Grammatical Relationships
+These are fundamental for sentence structure:
+
+1.nsubj (Nominal Subject)
+
+ Definition: The main subject of a clause, often performing the action.
+ Example:
+   She sings beautifully. → She (nsubj) ← sings
+   The dog chased the cat. → dog (nsubj) ← chased
+
+2.dobj (Direct Object)
+
+ Definition: The noun phrase directly receiving the action of a verb.
+ Example:
+   She read a book. → book (dobj) ← read
+   They built a house. → house (dobj) ← built
+
+2.iobj (Indirect Object)
+
+ Definition: The recipient of the action or object.
+ Example:
+   He gave her a gift. → her (iobj) ← gave
+   They told me a story. → me (iobj) ← told
+
+3.ROOT
+
+ Definition: The central element of a sentence, often the main verb.
+ Example:
+   She runs. → runs is ROOT
+   The dog barks loudly. → barks is ROOT
+
+
+Modifiers
+Modifiers provide additional information about words:
+
+1.amod (Adjectival Modifier)
+
+ Definition: An adjective modifying a noun.
+ Example:
+   The red car is fast. → red (amod) ← car
+   He saw a beautiful sunrise. → beautiful (amod) ← sunrise
+
+2.advmod (Adverbial Modifier)
+
+ Definition: An adverb modifying a verb, adjective, or adverb.
+ Example:
+   She ran quickly. → quickly (advmod) ← ran
+   It’s very cold. → very (advmod) ← cold
+
+3.det (Determiner)
+
+ Definition: A determiner (e.g., articles like "the" or "a") specifying a noun.
+ Example:
+   The car is fast. → the (det) ← car
+   She bought an apple. → an (det) ← apple
+
+4.prep (Prepositional Modifier)
+
+ Definition: A preposition that links a noun, verb, or adjective to another element.
+ Example:
+   He walked to the park. → to (prep) ← walked
+   The book is on the table. → on (prep) ← is
+
+5.pobj (Object of a Preposition)
+
+ Definition: The noun phrase governed by a preposition.
+ Example:
+   He walked to the park. → park (pobj) ← to
+   The book is on the table. → table (pobj) ← on
+
+
+Clause-Level Dependencies
+These labels describe the relationships within and across clauses:
+
+1.ccomp (Clausal Complement)
+
+ Definition: A clause that acts as the object of a verb.
+ Example:
+   She said that she was tired. → said → that... (ccomp)
+   I believe he is honest. → believe → he is honest (ccomp)
+
+2.xcomp (Open Clausal Complement)
+
+ Definition: A complement clause without its own subject.
+ Example:
+   She wants to swim. → swim (xcomp) ← wants
+   He tried to help. → help (xcomp) ← tried
+
+3.acl (Clausal Modifier of Noun)
+
+ Definition: A clause modifying a noun.
+ Example:
+   The book that she wrote is great. → wrote (acl) ← book
+   The man running fast won. → running (acl) ← man
+
+
+Advanced Relations
+For more complex sentences:
+
+1.appos (Appositional Modifier)
+
+ Definition: A noun phrase explaining another noun.
+ Example:
+   My friend, a doctor, is coming. → doctor (appos) ← friend
+   The city Paris is beautiful. → Paris (appos) ← city
+
+2.conj (Conjunct)
+
+ Definition: A word or phrase joined to another by a conjunction.
+ Example:
+   She bought apples and bananas. → bananas (conj) ← apples
+   He runs and swims. → swims (conj) ← runs
+
+3.compound (Compound Modifier)
+
+ Definition: Two or more nouns combined to form a single noun phrase.
+ Example:
+   A coffee shop. → coffee (compound) ← shop
+   The bus station. → bus (compound) ← station
