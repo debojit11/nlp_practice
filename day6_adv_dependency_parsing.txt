@@ -117,3 +117,43 @@ For more complex sentences:
  Example:
    A coffee shop. → coffee (compound) ← shop
    The bus station. → bus (compound) ← station
+
+
+
+Dependency Labels
+
+1.aux (Auxiliary Verb):
+
+ Auxiliary verbs are "helping verbs" that modify the main verb by adding grammatical meaning (e.g., tense, mood, aspect, voice).
+ Examples:
+   She is singing.
+   is → aux of singing
+   They can dance.
+   can → aux of dance
+
+2.poss (Possessive Modifier):
+
+ Indicates possession or ownership.
+ Examples:
+   This is my book.
+   my → poss of book
+   The cat licked its paw.
+   its → poss of paw
+
+3.mark (Marker):
+
+ A word (typically a subordinating conjunction or "that") used to introduce a dependent clause.
+ Examples:
+   He said that he would help.
+   that → mark of help
+   She cried because it hurt.
+   because → mark of hurt
+
+3.cc (Coordinating Conjunction):
+
+ Links two elements in a coordination (e.g., and, or, but).
+ Examples:
+   I like tea and coffee.
+   and → cc linking tea and coffee
+   We can stay here or leave.
+   or → cc linking stay and leave
